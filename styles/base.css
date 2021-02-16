@@ -1,0 +1,20 @@
+body{
+    background-color: purple;
+    color: gold;
+}
+
+
+footer{
+    position: absolute;
+    bottom: 25px;
+    width: 50%;
+    
+}
+
+.About-Me{
+    font-size: 30px;
+}
+
+a:visited, a:link{
+    color: black;
+}
