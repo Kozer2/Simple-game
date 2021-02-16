@@ -1,0 +1,24 @@
+header h1{
+    display: flex;
+    justify-content: center;
+    /* text-align: center; */
+    margin: 0 auto;
+    font-size: 50px;;
+}
+
+header nav{
+    display: flex;
+    font-size: 40px;
+    color: black;
+}
+
+footer nav{
+    display: flex;
+    font-size: 40px;
+    color: black;
+}
+
+.About-Me{
+    display: flex;
+    justify-content: center;
+}
